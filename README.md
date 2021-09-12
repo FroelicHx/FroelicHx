@@ -28,14 +28,14 @@
 
 
 <h2 align="center">Contact me<h2>
-<p align="center" style="display: flex; justify-content: space-around;">
+<p align="center">
   <a href="https://www.instagram.com/froelichdev_/">
-    <img src="./assents/instagram.png" width="75px">
+    <img src="./assents/instagram.png" width="75px" align="left">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5541999193311">
-    <img src="./assents/whatsapp.png" width="75px">
+    <img src="./assents/whatsapp.png" width="75px" align="center">
   </a>
   <a href="https://www.linkedin.com/in/eduardo-froelich-developer/">
-    <img src="./assents/linkedin.png" width="75px">
+    <img src="./assents/linkedin.png" width="75px" align="right">
   </a>
 </p>
