@@ -29,7 +29,7 @@
 
 <h2 align="center">Contact me<h2>
 <p align="center">
-  <a href="https://www.instagram.com/froelichdev_/">
+  <a href="https://www.instagram.com/fr0el1ch/">
     <img src="./assents/instagram.png" width="75px" align="left">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5541999193311">
