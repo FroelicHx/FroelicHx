@@ -46,4 +46,4 @@
 - Outside, I continue with my freelance work.
 - "I never loose. Either I win or I learn!" - Nelson Mandela.
 
-![Snake animation](https://github.com/FroelichDev/FroelichDev/)
+ ![Snake animation](https://github.com/FroelichDev/FroelichDev/blob/output/github-contribution-grid-snake.svg)
