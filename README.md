@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/FroelichDev">
-    <img src="./assents/logo_froelichdev.png" title="Eduardo Froelich"/>
+    <img src="./logo_froelichdev.png" title="Eduardo Froelich"/>
   </a>
 </div>
 
