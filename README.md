@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/FroelichTech">
-    <img src="./Logo.png" title="Eduardo Froelich"/>
-  </a>
-</div>
-
 ## Hi! I'm Eduardo Froelich, I'm glad you want to know me more.
 
 *I'm currently an intern and a web application freelancer. I've been passionate about logical reasoning since I was a child, now as an adult I just remember that no problem is impossible.*
